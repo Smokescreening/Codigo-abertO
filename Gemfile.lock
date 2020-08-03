@@ -17,3 +17,4 @@ GEM
     mime-types (1.25.1)
     multi_json (1.12.1)
     multipart-post (2.0.0)
+    rest-client (1.6.9)
