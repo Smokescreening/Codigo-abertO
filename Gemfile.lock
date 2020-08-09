@@ -21,3 +21,4 @@ GEM
       mime-types (~> 1.16)
     slack-api (1.2.4)
       faraday (>= 0.7, < 0.10)
+      faraday_middleware (~> 0.8)
