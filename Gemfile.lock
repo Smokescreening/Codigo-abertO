@@ -23,3 +23,4 @@ GEM
       faraday (>= 0.7, < 0.10)
       faraday_middleware (~> 0.8)
       faye-websocket (~> 0.9.2)
+      multi_json (~> 1.0, >= 1.0.3)
