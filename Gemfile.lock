@@ -28,3 +28,4 @@ GEM
       addressable (~> 2.3.5)
       json (~> 1.8.1)
       rest-client (~> 1.6.7)
+    websocket-driver (0.6.4)
