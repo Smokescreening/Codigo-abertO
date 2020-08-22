@@ -38,3 +38,5 @@ PLATFORMS
 DEPENDENCIES
   awesome_print
   dotenv
+  slack-api
+  unirest
