@@ -33,3 +33,6 @@ GEM
     websocket-extensions (0.1.2)
 
 PLATFORMS
+  ruby
+
+DEPENDENCIES
