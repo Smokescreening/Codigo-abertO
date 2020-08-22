@@ -36,3 +36,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  awesome_print
+  dotenv
