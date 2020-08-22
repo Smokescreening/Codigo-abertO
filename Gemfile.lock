@@ -40,3 +40,6 @@ DEPENDENCIES
   dotenv
   slack-api
   unirest
+
+BUNDLED WITH
+   1.13.6
