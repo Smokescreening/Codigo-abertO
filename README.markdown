@@ -10,3 +10,6 @@ You need to get an API token from Slack to get this working. If you are a member
 `TOKEN='<the-token-from-slack>'`
 
 Then follow the following step to get the dependencies installed:
+
+* Fork the repo
+* Clone the forked repo
