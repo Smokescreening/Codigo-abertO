@@ -16,3 +16,5 @@ Then follow the following step to get the dependencies installed:
 * Install Ruby >2.2
 * Install required libraries by running: `bundle install`
 * Run `rake update` to initiate an update on the data & push to your repo
+
+[slack_api_docs]: https://api.slack.com/docs/oauth-test-tokens
