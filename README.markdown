@@ -13,3 +13,5 @@ Then follow the following step to get the dependencies installed:
 
 * Fork the repo
 * Clone the forked repo
+* Install Ruby >2.2
+* Install required libraries by running: `bundle install`
