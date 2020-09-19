@@ -7,3 +7,5 @@ task :update do
   commit_docs
   push_commits
 end
+
+def commit_docs
