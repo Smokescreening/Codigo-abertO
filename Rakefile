@@ -9,3 +9,4 @@ task :update do
 end
 
 def commit_docs
+  system "git add docs"
