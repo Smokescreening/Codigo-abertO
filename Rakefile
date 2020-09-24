@@ -15,3 +15,4 @@ end
 
 def push_commits
   system "git push origin master"
+end
