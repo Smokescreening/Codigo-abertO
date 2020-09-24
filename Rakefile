@@ -12,3 +12,6 @@ def commit_docs
   system "git add docs"
   system "git commit -m 'Automated commit'"
 end
+
+def push_commits
+  system "git push origin master"
