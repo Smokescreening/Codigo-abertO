@@ -1,1 +1,1 @@
-google.ch
+google.cha
