@@ -1,1 +1,1 @@
-google.char
+google.chart
