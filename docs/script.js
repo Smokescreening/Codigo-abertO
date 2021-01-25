@@ -1,1 +1,1 @@
-google.charts.
+google.charts.l
