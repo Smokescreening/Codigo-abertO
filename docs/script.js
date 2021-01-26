@@ -1,1 +1,1 @@
-google.charts.lo
+google.charts.load
