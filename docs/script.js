@@ -1,1 +1,1 @@
-google.charts.load('upcoming'
+google.charts.load('upcoming', {
