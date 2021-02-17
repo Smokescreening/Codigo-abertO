@@ -1,1 +1,1 @@
-google.charts.load('upcoming', {'package
+google.charts.load('upcoming', {'packages':[
