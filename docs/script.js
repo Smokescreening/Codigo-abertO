@@ -1,1 +1,1 @@
-google.charts.load('upcoming', {'packages':['geochar
+google.charts.load('upcoming', {'packages':['geochart
