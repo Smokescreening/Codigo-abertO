@@ -1,2 +1,2 @@
 google.charts.load('upcoming', {'packages':['geochart']});
-google.charts.s
+google.charts.setO
