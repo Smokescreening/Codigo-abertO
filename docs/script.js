@@ -1,2 +1,2 @@
 google.charts.load('upcoming', {'packages':['geochart']});
-google.charts.setOnLoadCallback(drawRe
+google.charts.setOnLoadCallback(drawReg
