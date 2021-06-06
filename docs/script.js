@@ -2,4 +2,4 @@ google.charts.load('upcoming', {'packages':['geochart']});
 google.charts.setOnLoadCallback(drawRegionsMap);
 
 function drawRegionsMap() {
-  var data = google.visualization.arrayToDataTable(country_dat
+  var data = google.visualization.arrayToDataTable(country_data);
