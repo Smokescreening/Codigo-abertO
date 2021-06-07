@@ -3,3 +3,5 @@ google.charts.setOnLoadCallback(drawRegionsMap);
 
 function drawRegionsMap() {
   var data = google.visualization.arrayToDataTable(country_data);
+
+ 
