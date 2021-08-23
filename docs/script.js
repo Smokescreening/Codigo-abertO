@@ -5,4 +5,4 @@ function drawRegionsMap() {
   var data = google.visualization.arrayToDataTable(country_data);
 
   var options = {
-    colorAxis: {colors: ['#ACD6FF', 
+    colorAxis: {colors: ['#ACD6FF', '
