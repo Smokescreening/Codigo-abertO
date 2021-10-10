@@ -7,4 +7,4 @@ function drawRegionsMap() {
   var options = {
     colorAxis: {colors: ['#ACD6FF', '#133D6E']}
   };
-  var chart = new g
+  var chart = new google
