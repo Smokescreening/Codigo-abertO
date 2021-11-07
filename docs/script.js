@@ -7,4 +7,4 @@ function drawRegionsMap() {
   var options = {
     colorAxis: {colors: ['#ACD6FF', '#133D6E']}
   };
-  var chart = new google.visualization.GeoChart(document.getElementById('re
+  var chart = new google.visualization.GeoChart(document.getElementById('reg
