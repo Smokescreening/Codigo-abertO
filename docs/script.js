@@ -8,4 +8,4 @@ function drawRegionsMap() {
     colorAxis: {colors: ['#ACD6FF', '#133D6E']}
   };
   var chart = new google.visualization.GeoChart(document.getElementById('regions_div'));
-  chart
+  chart.
