@@ -11,4 +11,4 @@ function drawRegionsMap() {
   chart.draw(data, options);
 }
 
-functio
+function
