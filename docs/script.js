@@ -11,4 +11,4 @@ function drawRegionsMap() {
   chart.draw(data, options);
 }
 
-function writeIntoClass(className, messa
+function writeIntoClass(className, message
