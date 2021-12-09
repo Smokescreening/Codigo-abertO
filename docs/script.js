@@ -12,3 +12,4 @@ function drawRegionsMap() {
 }
 
 function writeIntoClass(className, message) {
+  d
