@@ -12,4 +12,4 @@ function drawRegionsMap() {
 }
 
 function writeIntoClass(className, message) {
-  document.getElementsByClassName(clas
+  document.getElementsByClassName(class
