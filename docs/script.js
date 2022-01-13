@@ -16,4 +16,4 @@ function writeIntoClass(className, message) {
 }
 
 function updateMeta() {
-  con
+  cons
