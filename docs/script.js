@@ -16,4 +16,4 @@ function writeIntoClass(className, message) {
 }
 
 function updateMeta() {
-  consol
+  console.lo
