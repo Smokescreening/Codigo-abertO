@@ -17,4 +17,4 @@ function writeIntoClass(className, message) {
 
 function updateMeta() {
   console.log(meta);
-  var messa
+  var message = 
