@@ -19,4 +19,4 @@ function updateMeta() {
   console.log(meta);
   var message = '<b>' +
     meta.total +
-    '</b> part
+    '</b> partic
