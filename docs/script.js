@@ -19,4 +19,4 @@ function updateMeta() {
   console.log(meta);
   var message = '<b>' +
     meta.total +
-    '</b> participants from <b
+    '</b> participants from <b>'
