@@ -20,4 +20,4 @@ function updateMeta() {
   var message = '<b>' +
     meta.total +
     '</b> participants from <b>' +
-    meta.countries
+    meta.countries +
