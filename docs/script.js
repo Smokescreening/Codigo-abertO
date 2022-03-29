@@ -21,4 +21,4 @@ function updateMeta() {
     meta.total +
     '</b> participants from <b>' +
     meta.countries +
-    '</b> countries. Updated on
+    '</b> countries. Updated on <b
