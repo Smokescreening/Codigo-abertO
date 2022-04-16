@@ -23,4 +23,4 @@ function updateMeta() {
     meta.countries +
     '</b> countries. Updated on <b>' +
     meta.updated_at +
-   
+    
