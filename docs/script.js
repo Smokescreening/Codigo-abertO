@@ -24,4 +24,4 @@ function updateMeta() {
     '</b> countries. Updated on <b>' +
     meta.updated_at +
     '</b>'
-  write
+  writeI
