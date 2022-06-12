@@ -27,4 +27,4 @@ function updateMeta() {
   writeIntoClass('meta', message);
 }
 
-updateMeta
+updateMeta()
