@@ -7,3 +7,6 @@ body, html, container {
 
 body, html, container {
   display: flex;
+
+  flex-direction: row;
+  align-items: center;
