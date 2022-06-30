@@ -13,3 +13,6 @@ body, html, container {
   justify-content: center;
   background-color: #232323;
 }
+
+.title{
+  font-size: 23px;
