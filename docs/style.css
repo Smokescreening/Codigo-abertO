@@ -38,3 +38,4 @@ body, html, container {
   color: #999999;
   font-family: Verdana;
   display: flex;
+  justify-content: space-between;
