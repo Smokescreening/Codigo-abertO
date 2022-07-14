@@ -36,3 +36,5 @@ body, html, container {
   padding-left: 0px;
   padding-right: 0px;
   color: #999999;
+  font-family: Verdana;
+  display: flex;
