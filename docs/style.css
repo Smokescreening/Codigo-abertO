@@ -42,3 +42,4 @@ body, html, container {
 }
 
 .made_using a {
+  text-decoration: none;
