@@ -40,3 +40,5 @@ body, html, container {
   display: flex;
   justify-content: space-between;
 }
+
+.made_using a {
