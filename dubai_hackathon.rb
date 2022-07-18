@@ -4,3 +4,4 @@ require 'dotenv'
 
 require_relative './lib/member.rb'
 require_relative './lib/members.rb'
+require_relative './lib/country_lookup.rb'
