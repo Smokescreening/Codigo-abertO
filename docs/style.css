@@ -48,3 +48,5 @@ body, html, container {
 }
 
 .meta {
+  justify-content: right;
+}
