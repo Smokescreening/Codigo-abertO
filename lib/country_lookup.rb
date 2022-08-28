@@ -7,3 +7,5 @@ module DubaiHackathon
   class CountryLookup
     def self.raw(city)
       @city = city
+
+      Unirest
