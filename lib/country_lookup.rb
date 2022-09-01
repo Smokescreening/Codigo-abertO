@@ -9,3 +9,4 @@ module DubaiHackathon
       @city = city
 
       Unirest
+        .get(URL[:country_lookup] + @city)
