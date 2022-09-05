@@ -12,3 +12,5 @@ module DubaiHackathon
         .get(URL[:country_lookup] + @city)
         .body
     end
+
+    def self.by_city(city)
