@@ -18,3 +18,4 @@ module DubaiHackathon
       return nil if city.nil?
 
       raw(city)
+        .first
