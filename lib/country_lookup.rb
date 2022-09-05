@@ -19,3 +19,4 @@ module DubaiHackathon
 
       raw(city)
         .first
+        .split(/,\s/)
