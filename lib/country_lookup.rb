@@ -10,3 +10,5 @@ module DubaiHackathon
 
       Unirest
         .get(URL[:country_lookup] + @city)
+        .body
+    end
