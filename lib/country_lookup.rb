@@ -14,3 +14,5 @@ module DubaiHackathon
     end
 
     def self.by_city(city)
+      return local_lookup[city] unless local_lookup[city].nil?
+      return nil if city.nil?
