@@ -21,3 +21,4 @@ module DubaiHackathon
         .first
         .split(/,\s/)
         .last
+    end
