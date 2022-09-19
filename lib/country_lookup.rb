@@ -27,3 +27,4 @@ module DubaiHackathon
       @ll ||= YAML::load File.open('./city_country_lookup_table.yml', 'r').read
     end
   end
+end
