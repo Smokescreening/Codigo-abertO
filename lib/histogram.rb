@@ -5,3 +5,4 @@ require_relative './members.rb'
 module DubaiHackathon
   def self.histogram(list)
     list
+      .inject({}) do |h, country|
