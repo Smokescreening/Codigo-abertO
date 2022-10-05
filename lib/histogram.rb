@@ -11,3 +11,5 @@ module DubaiHackathon
       h
     end
   end
+
+  def self.adjust_for_canada(histogram)
