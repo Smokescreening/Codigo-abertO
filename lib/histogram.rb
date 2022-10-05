@@ -10,3 +10,4 @@ module DubaiHackathon
       h[country] += 1
       h
     end
+  end
