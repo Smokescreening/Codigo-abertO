@@ -13,3 +13,5 @@ module DubaiHackathon
   end
 
   def self.adjust_for_canada(histogram)
+    us = histogram['United States']
+    canada = us / 10
