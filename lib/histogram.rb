@@ -18,3 +18,4 @@ module DubaiHackathon
 
     histogram['United States'] = us - canada
     histogram['Canada'] = canada
+    histogram
