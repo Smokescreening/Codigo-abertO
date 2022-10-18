@@ -17,3 +17,4 @@ module DubaiHackathon
     canada = us / 10
 
     histogram['United States'] = us - canada
+    histogram['Canada'] = canada
