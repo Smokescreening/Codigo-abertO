@@ -20,3 +20,4 @@ module DubaiHackathon
     histogram['Canada'] = canada
     histogram
   end
+end
