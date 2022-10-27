@@ -8,3 +8,5 @@ module DubaiHackathon
     attr_reader :email, :time_zone
 
     def initialize(
+      user_name:,
+      first_name:,
