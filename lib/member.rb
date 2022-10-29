@@ -15,3 +15,5 @@ module DubaiHackathon
       skype:,
       phone:,
       email:,
+      time_zone:,
+      city:
