@@ -17,3 +17,5 @@ module DubaiHackathon
       email:,
       time_zone:,
       city:
+    )
+      @user_name = user_name
