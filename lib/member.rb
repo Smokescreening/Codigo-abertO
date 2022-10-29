@@ -13,3 +13,5 @@ module DubaiHackathon
       last_name:,
       title:,
       skype:,
+      phone:,
+      email:,
