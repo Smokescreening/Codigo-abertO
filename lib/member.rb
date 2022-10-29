@@ -10,3 +10,6 @@ module DubaiHackathon
     def initialize(
       user_name:,
       first_name:,
+      last_name:,
+      title:,
+      skype:,
