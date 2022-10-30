@@ -19,3 +19,4 @@ module DubaiHackathon
       city:
     )
       @user_name = user_name
+      @first_name = first_name
