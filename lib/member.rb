@@ -20,3 +20,5 @@ module DubaiHackathon
     )
       @user_name = user_name
       @first_name = first_name
+      @last_name = last_name
+      @title = title
