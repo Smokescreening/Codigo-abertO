@@ -24,3 +24,5 @@ module DubaiHackathon
       @title = title
       @skype = skype
       @phone = phone
+      @email = email
+      @time_zone = time_zone
