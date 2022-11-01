@@ -22,3 +22,5 @@ module DubaiHackathon
       @first_name = first_name
       @last_name = last_name
       @title = title
+      @skype = skype
+      @phone = phone
