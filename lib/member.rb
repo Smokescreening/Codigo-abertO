@@ -28,3 +28,5 @@ module DubaiHackathon
       @time_zone = time_zone
       @city = city
     end
+
+    def full_name
