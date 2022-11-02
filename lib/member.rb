@@ -26,3 +26,5 @@ module DubaiHackathon
       @phone = phone
       @email = email
       @time_zone = time_zone
+      @city = city
+    end
