@@ -34,3 +34,4 @@ module DubaiHackathon
     end
 
     def city
+      return nil if @city.nil?
