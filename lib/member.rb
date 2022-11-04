@@ -35,3 +35,6 @@ module DubaiHackathon
 
     def city
       return nil if @city.nil?
+
+      @city
+        .split(/\//)
