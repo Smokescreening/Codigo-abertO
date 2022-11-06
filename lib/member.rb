@@ -41,3 +41,6 @@ module DubaiHackathon
         .last
         .gsub(/\_/, ' ')
     end
+
+    def set_country(country)
+      @country = country
