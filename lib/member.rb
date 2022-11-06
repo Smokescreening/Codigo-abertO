@@ -39,3 +39,5 @@ module DubaiHackathon
       @city
         .split(/\//)
         .last
+        .gsub(/\_/, ' ')
+    end
