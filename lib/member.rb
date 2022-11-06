@@ -38,3 +38,4 @@ module DubaiHackathon
 
       @city
         .split(/\//)
+        .last
