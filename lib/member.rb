@@ -44,3 +44,4 @@ module DubaiHackathon
 
     def set_country(country)
       @country = country
+    end
