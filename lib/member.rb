@@ -45,3 +45,6 @@ module DubaiHackathon
     def set_country(country)
       @country = country
     end
+
+    def country
+      @country ||= CountryLookup.by_city(@city)
