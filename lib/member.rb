@@ -49,3 +49,5 @@ module DubaiHackathon
     def country
       @country ||= CountryLookup.by_city(@city)
     end
+  end
+end
