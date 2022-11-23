@@ -7,3 +7,4 @@ module DubaiHackathon
     attr_reader :client
 
     def initialize
+      @client = Slack::Client.new token: ENV['TOKEN']
