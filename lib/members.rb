@@ -8,3 +8,6 @@ module DubaiHackathon
 
     def initialize
       @client = Slack::Client.new token: ENV['TOKEN']
+    end
+
+    def list
