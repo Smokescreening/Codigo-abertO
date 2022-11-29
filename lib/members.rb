@@ -13,3 +13,4 @@ module DubaiHackathon
     def list
       data
         .each { |m| m.set_country(city_country_lookup_table[m.city]) }
+    end
