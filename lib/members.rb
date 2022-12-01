@@ -14,3 +14,7 @@ module DubaiHackathon
       data
         .each { |m| m.set_country(city_country_lookup_table[m.city]) }
     end
+
+    def search_by_id(regex)
+      list
+        .select { |m| m.user_name.match regex }
