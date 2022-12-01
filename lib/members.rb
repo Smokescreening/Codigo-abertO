@@ -18,3 +18,7 @@ module DubaiHackathon
     def search_by_id(regex)
       list
         .select { |m| m.user_name.match regex }
+    end
+
+    def data
+      @data ||= @client
