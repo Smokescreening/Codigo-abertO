@@ -22,3 +22,4 @@ module DubaiHackathon
 
     def data
       @data ||= @client
+        .users_list["members"]
