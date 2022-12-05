@@ -25,3 +25,4 @@ module DubaiHackathon
         .users_list["members"]
         .map do |member_data|
         Member.new(
+          user_name: member_data["name"],
