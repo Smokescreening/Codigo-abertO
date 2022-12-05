@@ -24,3 +24,4 @@ module DubaiHackathon
       @data ||= @client
         .users_list["members"]
         .map do |member_data|
+        Member.new(
