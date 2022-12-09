@@ -29,3 +29,6 @@ module DubaiHackathon
           first_name: member_data["profile"]["first_name"],
           last_name: member_data["profile"]["last_name"],
           title: member_data["profile"]["title"],
+          skype: member_data["profile"]["skype"],
+          phone: member_data["profile"]["phone"],
+          email: member_data["profile"]["email"],
