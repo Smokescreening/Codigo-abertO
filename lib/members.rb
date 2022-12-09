@@ -32,3 +32,5 @@ module DubaiHackathon
           skype: member_data["profile"]["skype"],
           phone: member_data["profile"]["phone"],
           email: member_data["profile"]["email"],
+          time_zone: member_data["tz_label"],
+          city: member_data["tz"]
