@@ -36,3 +36,4 @@ module DubaiHackathon
           city: member_data["tz"]
         )
       end
+    end
