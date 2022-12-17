@@ -37,3 +37,6 @@ module DubaiHackathon
         )
       end
     end
+
+    def city_country_lookup_table
+      @city_country_lookup_table ||= data
