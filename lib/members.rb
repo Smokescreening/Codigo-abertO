@@ -43,3 +43,4 @@ module DubaiHackathon
         .map { |member| member.city }
         .compact
         .sort
+        .uniq
