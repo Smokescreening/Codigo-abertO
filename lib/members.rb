@@ -41,3 +41,5 @@ module DubaiHackathon
     def city_country_lookup_table
       @city_country_lookup_table ||= data
         .map { |member| member.city }
+        .compact
+        .sort
