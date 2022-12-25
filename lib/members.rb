@@ -44,3 +44,4 @@ module DubaiHackathon
         .compact
         .sort
         .uniq
+        .inject({}) { |a, city| a[city] = CountryLookup.by_city(city); a }
