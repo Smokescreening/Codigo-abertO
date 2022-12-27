@@ -46,3 +46,5 @@ module DubaiHackathon
         .uniq
         .inject({}) { |a, city| a[city] = CountryLookup.by_city(city); a }
     end
+  end
+end
