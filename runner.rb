@@ -5,3 +5,5 @@ require_relative './dubai_hackathon.rb'
 require 'json'
 
 module DubaiHackathon
+  def self.download
+    countries =  DubaiHackathon::Members.new
