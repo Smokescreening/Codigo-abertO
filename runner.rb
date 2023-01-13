@@ -7,3 +7,5 @@ require 'json'
 module DubaiHackathon
   def self.download
     countries =  DubaiHackathon::Members.new
+      .list
+      .map(&:country)
