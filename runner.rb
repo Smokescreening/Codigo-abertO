@@ -9,3 +9,4 @@ module DubaiHackathon
     countries =  DubaiHackathon::Members.new
       .list
       .map(&:country)
+      .compact
