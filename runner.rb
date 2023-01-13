@@ -10,3 +10,5 @@ module DubaiHackathon
       .list
       .map(&:country)
       .compact
+
+    hist = DubaiHackathon::histogram countries
