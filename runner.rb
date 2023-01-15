@@ -12,3 +12,4 @@ module DubaiHackathon
       .compact
 
     hist = DubaiHackathon::histogram countries
+    modified_histogram = DubaiHackathon::adjust_for_canada(hist)
