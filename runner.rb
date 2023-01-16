@@ -19,3 +19,6 @@ module DubaiHackathon
   def self.histogram_hash
     @histogram_hash ||= YAML::load File.open('histogram.yml', 'r') { |f| f.read }
   end
+
+  def self.map_data
+    'country_data = ' + histogram_hash
