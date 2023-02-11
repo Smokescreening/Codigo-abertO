@@ -24,3 +24,4 @@ module DubaiHackathon
     'country_data = ' + histogram_hash
       .map { |k, v| [k, v] }
       .unshift(['Country', 'Participants'])
+      .to_s
