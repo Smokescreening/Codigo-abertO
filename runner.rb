@@ -28,3 +28,4 @@ module DubaiHackathon
   end
 
   def self.write_map_data
+    File.open('./docs/data.js', 'w') { |f| f.write map_data }
