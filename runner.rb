@@ -26,3 +26,5 @@ module DubaiHackathon
       .unshift(['Country', 'Participants'])
       .to_s
   end
+
+  def self.write_map_data
