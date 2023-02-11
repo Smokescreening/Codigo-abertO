@@ -25,3 +25,4 @@ module DubaiHackathon
       .map { |k, v| [k, v] }
       .unshift(['Country', 'Participants'])
       .to_s
+  end
