@@ -35,3 +35,6 @@ module DubaiHackathon
     total = histogram_hash
       .values
       .reduce(:+)
+
+    meta = {
+      total: total,
