@@ -34,3 +34,4 @@ module DubaiHackathon
   def self.write_meta_data
     total = histogram_hash
       .values
+      .reduce(:+)
