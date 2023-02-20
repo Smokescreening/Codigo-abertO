@@ -38,3 +38,4 @@ module DubaiHackathon
 
     meta = {
       total: total,
+      countries: histogram_hash.count,
