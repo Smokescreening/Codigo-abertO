@@ -39,3 +39,5 @@ module DubaiHackathon
     meta = {
       total: total,
       countries: histogram_hash.count,
+      updated_at: Time.now.strftime("%b %d")
+    }.to_json
