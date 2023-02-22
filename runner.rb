@@ -41,3 +41,6 @@ module DubaiHackathon
       countries: histogram_hash.count,
       updated_at: Time.now.strftime("%b %d")
     }.to_json
+
+    meta_data = "meta = #{meta}"
+    File.open('./docs/meta.js', 'w') { |f| f.write meta_data }
