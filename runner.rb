@@ -45,3 +45,5 @@ module DubaiHackathon
     meta_data = "meta = #{meta}"
     File.open('./docs/meta.js', 'w') { |f| f.write meta_data }
   end
+
+  def self.update
