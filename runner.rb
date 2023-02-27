@@ -50,3 +50,5 @@ module DubaiHackathon
     download
     write_meta_data
     write_map_data
+  end
+end
