@@ -47,3 +47,4 @@ module DubaiHackathon
   end
 
   def self.update
+    download
