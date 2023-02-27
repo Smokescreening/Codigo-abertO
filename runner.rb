@@ -48,3 +48,5 @@ module DubaiHackathon
 
   def self.update
     download
+    write_meta_data
+    write_map_data
